@@ -11,7 +11,6 @@ function logWhisper() {
   console.log ('hello')
 }
 
-
 function logShout() {
 console.log ('HELLO')
 }
