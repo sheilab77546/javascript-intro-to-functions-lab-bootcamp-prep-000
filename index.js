@@ -21,7 +21,7 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-  console.log (shout)
+  console.log (shout.string)
   return ("I love you, too.")
 
   console.log ("I love you, too.")
